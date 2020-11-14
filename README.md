@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Karolis Samuolis, a front-end developer!</div>  
+### <div align="center">I'm Karolis Samuolis, a front-end developer!</div> 
+<br/>
+<br/>
   
 
 - Currently working on my bachelor's project, Teeemwork!  
