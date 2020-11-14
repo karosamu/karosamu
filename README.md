@@ -14,7 +14,7 @@
 - I'm currently a student in Kaunas University of Technology  
   
 
-- I enjoy spending time creating bash scripts for my own needs  
+- I enjoy spending time creating shell scripts for my own needs  
   
 
 <br/>  
@@ -31,8 +31,7 @@ Front-end<br/><br/>
 Libraries/Frameworks<br/><br/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/><br/><br/>
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/><br/><br/>
 Back-end<br/><br/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><br/><br/>
 Other<br/><br/>
