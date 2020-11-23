@@ -11,7 +11,7 @@
 - Currently working on my bachelor's project, Teeemwork!  
   
 
-- I'm currently a student in Kaunas University of Technology  
+- I'm a student in Kaunas University of Technology  
   
 
 - I enjoy spending time creating shell scripts for my own needs  
